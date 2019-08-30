@@ -1,8 +1,8 @@
 <!doctype html>
 <html>
     <head>
-		title>сайт Василия</title>
+		title><?= SITE_NAME ?></title>
 	</head>
-		<body><h1>сайт Василия</h1>
+		<body><h1><?= SITE_NAME ?</h1>
 		</body>
 </html>
